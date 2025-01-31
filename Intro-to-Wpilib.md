@@ -106,7 +106,7 @@ def ROBOT_MAIN_CLASS = 'team3647.frcYEAR.robot.Main'
 This is because the path to your `Main.java` file has changed after you adjust your file structure according to the instructions above. 
 
 ### ***Build Code***
-- Hit `ctrl + p` (`cmd + shift + p` on mac) to open up the command palette
+- Hit `ctrl + shift + p` (`cmd + shift + p` on mac) to open up the command palette
 - Type `build` and press enter for `WPILib: Build Robot Code`
 - If all has been done correctly, the terminal should say `BUILD SUCCESSFUL` in about 30 seconds
 
