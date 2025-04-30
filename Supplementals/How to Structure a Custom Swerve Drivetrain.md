@@ -1,3 +1,4 @@
+# How to Structure a Custom Swerve Drivetrain
 >[!NOTE]
 > This isn't required reading, so you can move on if you don't care about this, but I do recommend that you come back to this at some point and read it
 
