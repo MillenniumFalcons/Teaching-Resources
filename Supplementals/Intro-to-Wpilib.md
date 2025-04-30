@@ -64,9 +64,9 @@ java
 - Inside of `frcYEAR`, add
 	- autonomous
 	- commands
-	- inputs
 	- robot
 	- subsystems
+ 	- constants 
 - Move `Main.java`, `Robot.java`, and `RobotContainer.java` into team3647/frcYEAR/robot
 - Delete the frc folder
 - remove all import statements from ```RobotContainer.java```
