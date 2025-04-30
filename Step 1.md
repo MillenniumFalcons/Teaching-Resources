@@ -8,7 +8,7 @@
 
 **Once you are done, or if you want to skip this step, come talk to one of the heads about the next steps.**
 
-If none of us are available, your next step is to install WPILIB VS Code. Wpilib VS Code is the editor we use to program robots, and it has a bunch of integrations that make it easier to write and run code for robots. **To get started follow [this guide](https://github.com/MillenniumFalcons/Intro-to-WPILIB) to install Wpilib and make your first project.** 
+If none of us are available, your next step is to install WPILIB VS Code. Wpilib VS Code is the editor we use to program robots, and it has a bunch of integrations that make it easier to write and run code for robots. **To get started follow [this guide](Supplementals/Intro-to-Wpilib.md) to install Wpilib and make your first project.** 
 
 **Once you have done that, contact one of the leads for next steps.**
 
