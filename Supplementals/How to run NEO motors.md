@@ -1,3 +1,4 @@
+# How To Run NEO Motors
 NEO motors are controlled by SparkMax motor controllers. Therefore you must use the `SparkMax` class to run these motors
 
 ## Before you Begin:
