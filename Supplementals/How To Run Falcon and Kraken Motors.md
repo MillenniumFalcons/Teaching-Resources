@@ -47,6 +47,10 @@ This object contains many methods that can set various details of the motor. For
 	- this will make more sense after you've completed step 3, so bear that in mind
 	- the Talons can run a PID controller onboard at a much faster rate than the roboRio can, and we can configure the PID gains for it here
 	- use `<name of Config object>.slot0.withKP(double), .withKI(double)` and `.withKD(double)` to set them
+4. Soft Limits
+	- This limits the motion of the motor so it can't go past a certain position
+	- useful for subsystems with limits for their motion (eg almost every subsystem)
+	- There are limits for forward motion and reverse motion, and they must be set separately and also enabled using `<name of talonfxconfiguration>.SoftwareLimitSwitch.with<direction>SoftLimitEnable()` 
 >[!TIP]
 >you can easily tune PID gains for the Talons using phoenix tuner by clicking on the motor and going to the output tab
 
