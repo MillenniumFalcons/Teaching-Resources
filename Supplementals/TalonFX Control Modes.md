@@ -6,9 +6,9 @@
 | Raw (no PID Tuning Requried)                       | VoltageOut                 | TorqueCurrentFOC                   | DutyCycleOut                                |
 | Velocity                                           | VelocityVoltage            | VelocityTorqueCurrentFOC           | VelocityDutyCycle                           |
 | Position                                           | PositionVoltage            | PositionTorqueCurrentFOC           | PositionDutyCycle                           |
-| Motion Magic ([[#Profiled]] Velocity)              | MotionMagic(Expo)Voltage   | MotionMagic(Expo) TorqueCurrentFOC | MotionMagic (Expo)DutyCycle                 |
-| Motion Magic Velocity ([[#Profiled]] Acceleration) | MotionMagicVelocityVoltage | you get the idea                   |                                             |
-|                                                    |                            |                                    |                                             |
+| Motion Magic (Profiled Velocity)              | MotionMagic(Expo)Voltage   | MotionMagic(Expo) TorqueCurrentFOC | MotionMagic (Expo)DutyCycle                 |
+| Motion Magic Velocity (Profiled Acceleration) | MotionMagicVelocityVoltage | you get the idea                   |                                             |
+
 
 
 
