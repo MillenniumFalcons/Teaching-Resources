@@ -5,7 +5,7 @@ Swerve is the type of drivetrain where each wheel is free to rotate independentl
 
 
 >[!NOTE]
->You should create a new project for this exersize, and install the CTRE Phoenix vendor library
+>You should [create a new project](Supplementals/Intro-to-Wpilib.md#project-creation) for this exersize, and install the CTRE Phoenix vendor library
 
 ## CTRE Swerve API:
 To actually run our swerve drivetrain, we’ll use the api that CTRE provides in their docs. However, you should learn how it works [under the hood](Supplementals/How%20to%20Structure%20a%20Custom%20Swerve%20Drivetrain.md) at some point, even if you don’t want to right now.
