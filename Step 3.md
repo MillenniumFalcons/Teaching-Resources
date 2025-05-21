@@ -41,7 +41,12 @@ Now it’s time to move on to PID. In this stage, you’ll program the wheel of 
 		 1. If you see oscillations, the P is too high, and if you don’t get to your setpoint, the P is too low  
 	2. If you still can’t control oscillations, or if you can’t get it accurate enough, increase P till you see some oscillations, then add a small amount of D to dampen them  
 	3. In general, don’t touch I, since it will lead to weird behavior, and won’t really help anything unless you’re trying to go a long distance
+ 10. For practice tuning a pid controller, you can see [this website](https://docs.wpilib.org/en/stable/docs/software/advanced-controls/introduction/tuning-turret.html#pure-feedback-control)
 
+ > [!IMPORTANT]  
+ >**Your Project:**
+>* you will create a command in your existing minibot code that will turn one (or both) of the wheels of the minibot by using a `PIDController`
+ 
 Here’s how the structure should go in code:
 
 * There’s a setAngle() method in your subsystem that should set the motor output variable  
