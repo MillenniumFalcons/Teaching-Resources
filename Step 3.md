@@ -23,7 +23,7 @@ Now it’s time to move on to PID. In this stage, you’ll program the wheel of 
 	3. kP, kI, and kD are constants, that serve as sort of weights for each portion of the calculation  
 	4. Notice that setting any constant to 0 effectively removes that part of the calculation from the equation. 
 
-8. Let’s walk through a scenario where you’re trying to control position, let's say setting it to 5 meters, and your input is motor voltage  
+8. Let’s walk through a scenario where you’re trying to control position, let's say setting it to 5 meters, and you only directly control motor voltage  
 	1. We’ll start with PID gains of 1,0,and 0 for kP, kI and kD respectively  
 	2. At the start, the error is 5, and the only thing that is used is the kP component, so the output voltage  will be 1 \* 5  \= 5 volts  
 	3. Let’s say that after some time, we are now at 3 meters  
