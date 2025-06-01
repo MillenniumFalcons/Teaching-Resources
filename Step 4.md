@@ -71,7 +71,7 @@ unfortunately, we can't always be looking at apriltags in real matches, so we st
 we will use a Kalman Filter to do this 
 - essentially, a kalman filter will smooth the transition from odometry to vision, and apply a different amount of correction based on how much we trust the vision pose.
 >[!INFO]
->for more detail, you can google it
+> for more detail, you can google it
 
 let's upgrade our `DifferentialDriveOdometry` to be able to take vision measurements
 
