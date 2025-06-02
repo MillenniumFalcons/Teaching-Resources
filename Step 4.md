@@ -83,7 +83,9 @@ follow [this guide](Supplementals/Vision%20Tutorial.md#adding%20vision) to turn 
 - However, the getPose2D function returns (0,0,0) when it doesn't see anything, and we don't want our robot's pose drifting to 0 all the time, so we need
 
 <img src="Supplementals/images/filtering.png" alt="drawing" width="400" />
+
 ## Filtering
+
 This is a way of catching obviously wrong poses before they get to the pose estimator. 
 
 There are a few ways to do this
