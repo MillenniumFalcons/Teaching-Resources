@@ -11,7 +11,6 @@ Welcome! This training is made up of 7 steps, which will guide you from 0 code e
 ### [Step 6: Coding a Full Robot](Step%206.md)
 ### [Step 7: Simulation](Step%207.md)
 
-## Todo for mr chen
-- Fox the formatting in step 2
-- get good
+## Todo
+- Fix the formatting in step 2
 - make step 7, finish step 6
