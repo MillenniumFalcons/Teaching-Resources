@@ -6,7 +6,7 @@
 * [downloads](https://drive.google.com/drive/folders/1t-E3pMgO3RraraP4Stzuldlk5Y7dOQaQ) \- get tshe tmcbeans and java downloads from here  
 * [actual course](https://java-programming.mooc.fi/) \- make an account and start 
 
-This can get boring, so you can skip exercises that you don't feel you need. The most important part is really Part 9 about Object Oriented Programming.
+**This can get boring, so you can skip exercises that you don't feel you need. The most important part is really Part 9 about Object Oriented Programming.**
 
 **Once you are done, or if you want to skip this step, come talk to one of the heads about the next steps.**
 
